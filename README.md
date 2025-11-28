@@ -23,8 +23,9 @@
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
 <!-- stats -->
+<p align="middle">
 <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=bebejamin1&" alt="bebejamin1" /></p>
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&locale=en" alt="bebejamin1" /></p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&locale=en" alt="bebejamin1" /></p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=bebejamin1&show_icons=true&locale=en&layout=compact" alt="bebejamin1" /></p>
 
 <!-- reseaux -->
