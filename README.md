@@ -1,9 +1,18 @@
 <h1 align="middle">HELLO WOOOORLD 👋, I'm Benjamin</h1>
-<h2 align="middle">A developer</h2>
+<!-- <h2 align="middle">A developer</h2> -->
+
+<!-- <h3 align="middle">Languages and Tools:</h3> -->
+
+
+
+<!-- stats -->
+<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=bebejamin1&" alt="bebejamin1" /></p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&locale=en" alt="bebejamin1" /></p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=bebejamin1&show_icons=true&locale=en&layout=compact" alt="bebejamin1" /></p>
+
 
 <!-- languages -->
-<h3 align="middle">Languages and Tools:</h3>
-<p align="middle"> 
+<p align="middle">
 <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> 
 
@@ -21,12 +30,6 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
-<!-- stats -->
-<p align="middle">
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=bebejamin1&" alt="bebejamin1" /></p>
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&locale=en" alt="bebejamin1" /></p>
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=bebejamin1&show_icons=true&locale=en&layout=compact" alt="bebejamin1" /></p>
 
 <!-- reseaux -->
 <h3 align="left">Connect with me:</h3>
