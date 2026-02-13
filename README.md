@@ -38,7 +38,16 @@
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img src="https://metrics.lecoq.io/bebejamin1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FParis&theme=tokyonight" alt="Metrics" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bebejamin1&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bebejamin1">
+    <img src="https://img.shields.io/github/commit-activity/m/bebejamin1?style=for-the-badge&color=36454F&label=Missions%20Termin%C3%A9es" alt="Commits" />
+  </a>
+  <a href="https://github.com/bebejamin1">
+    <img src="https://img.shields.io/github/repo-size/bebejamin1/libft?style=for-the-badge&color=F57C00&label=Poids%20de%20la%20Libft" alt="Repo Size" />
   </a>
 </p>
 
