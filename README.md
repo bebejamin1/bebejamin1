@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebejamin1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://metrics.lecoq.io/bebejamin1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FParis&theme=tokyonight" alt="Metrics" width="100%" />
   </a>
 </p>
 
