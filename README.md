@@ -1,6 +1,6 @@
 ![Design sans titre (3)](https://github.com/user-attachments/assets/edacb434-d2a3-427d-86f9-afd327101bfc)
 <!-- <p align="center"> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=250&section=header&text=Benjamin%20&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=250&section=header&text=Benjamin%BEAURAIN20&fontSize=60" />
 <!-- </p> -->
 
 > **Développeur passionné par [Ta Spécialité : ex. le Web / l'IA / le Mobile]**
