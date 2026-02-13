@@ -44,10 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-  </a>
-  <a href="https://github.com/bebejamin1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejamin1&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" alt="Summary Card" width="100%" />
   </a>
 </p>
 
