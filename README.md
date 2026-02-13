@@ -38,10 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img src="https://img.shields.io/github/commit-activity/m/bebejamin1?style=for-the-badge&color=36454F&label=Missions%20Termin%C3%A9es" alt="Commits" />
-  </a>
-  <a href="https://github.com/bebejamin1">
-    <img src="https://img.shields.io/github/repo-size/bebejamin1/libft?style=for-the-badge&color=F57C00&label=Poids%20de%20la%20Libft" alt="Repo Size" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" alt="Summary Card" width="100%" />
   </a>
 </p>
 
