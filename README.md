@@ -17,8 +17,8 @@
 <table>
   <tr>
     <td><strong>LIBFT</strong></td>
-    <td>Bibliothèque de fonctions système en C[cite: 22, 23].</td>
-    <td><a href="https://github.com/bebejamin1">Voir le Repo</a></td>
+    <td>Bibliothèque de fonctions système en C.</td>
+    <td><a href="https://github.com/bebejamin1/LIBFT">Voir le Repo</a></td>
   </tr>
   <tr>
     <td><strong>GNL</strong></td>
@@ -27,8 +27,8 @@
   </tr>
   <tr>
     <td><strong>FT_PRINTF</strong></td>
-    <td>Recodage complet du formatage de données en console[cite: 25, 26].</td>
-    <td><a href="https://github.com/bebejamin1">Voir le Repo</a></td>
+    <td>Recodage complet du formatage de données en console.</td>
+    <td><a href="https://github.com/bebejamin1/FT_PRINTF">Voir le Repo</a></td>
   </tr>
 </table>
 
