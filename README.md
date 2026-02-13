@@ -32,6 +32,15 @@
   </tr>
 </table>
 
+<p align="left">
+  <strong>Progression LIBFT :</strong><br>
+  <img src="https://geps.dev/progress/85?dangerColor=36454F&warningColor=F57C00&successColor=0077B5" alt="Libft Progress" />
+</p>
+<p align="left">
+  <strong>Maîtrise du Langage C :</strong><br>
+  <img src="https://geps.dev/progress/100?dangerColor=36454F&warningColor=F57C00&successColor=0077B5" alt="C Progress" />
+</p>
+
 <hr>
 
 ### 📊 Tableau de Bord (Statistiques)
