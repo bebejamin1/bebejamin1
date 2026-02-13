@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="Gemini_Generated_Image_a7804ma7804ma780" src="https://github.com/user-attachments/assets/4d36d3ce-8840-4d8d-a94c-995ae4783c50" />
+![Design sans titre (3)](https://github.com/user-attachments/assets/edacb434-d2a3-427d-86f9-afd327101bfc)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Benjamin%20(bebejamin1)&fontSize=60" />
 </p>
