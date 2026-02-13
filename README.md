@@ -63,5 +63,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=bebejamin1&label=Vues%20du%20profil&color=36454F&style=flat" alt="Views" />
+  <img src="![](https://komarev.com/ghpvc/?username=bebejamin1&base=1000)" alt="Views" />
 </p>
