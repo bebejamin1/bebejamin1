@@ -36,8 +36,11 @@
 
 ### 📊 Statistiques Radar
 
+### 🛠️ Système de bord (Technologies)
 <p align="center">
-  <img src="https://metrics.lecoq.io/bebejamin1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FParis" alt="Metrics" width="100%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,git,linux,vscode&theme=dark" />
+  </a>
 </p>
 ---
 
