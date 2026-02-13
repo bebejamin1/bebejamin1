@@ -1,33 +1,53 @@
 ![Design sans titre (3)](https://github.com/user-attachments/assets/edacb434-d2a3-427d-86f9-afd327101bfc)
-<!-- <p align="center"> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=250&section=header&text=Benjamin%20BEAURAIN&fontSize=60" />
-<!-- </p> -->
+# 👨‍✈️ Commandant Benjamin en approche !
 
-> **Développeur passionné par [Ta Spécialité : ex. le Web / l'IA / le Mobile]**
-> "Transformer le café en code propre et efficace." ☕💻
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=250&section=header&text=Benjamin%20BEAURAIN&fontSize=60" />
+</p>
 
----
-
-### 🚀 À propos de moi
-
-- 🔭 Je travaille actuellement sur **[Nom de ton projet principal]**
-- 🌱 J'apprends en ce moment **[Techno que tu apprends, ex: Next.js, Rust...]**
-- 💬 Pose-moi des questions sur **[Tes domaines d'expertise]**
-- ⚡ Fait amusant : [Ajoute une petite touche d'humour ici !]
+<p align="center">
+  <img src="image_c174bf.jpg" width="800" alt="GitHub Aviation Art">
+  <br>
+  <em>"Le code, c'est comme le pilotage : rigueur, check-lists et une trajectoire précise vers la solution."</em>
+</p>
 
 ---
 
-### 🛠 Mon Arsenal Technique
+### 🚀 Plan de vol (À propos de moi)
 
-| Catégorie | Outils & Langages |
+* [cite_start]**Formation :** Étudiant à l'**École 42 Le Havre** [cite: 11][cite_start], j'apprends le développement par la pratique et l'autonomie[cite: 6, 12].
+* [cite_start]**Certification :** Titulaire du **BIA (Brevet d'Initiation Aéronautique)** obtenu en 2022[cite: 33, 34].
+* [cite_start]**Profil :** Curieux, rigoureux [cite: 7][cite_start], et passionné par la simulation aéronautique[cite: 37].
+* [cite_start]**Engagement :** Trésorier du **BDE 42 Le Havre** [cite: 36] [cite_start]et responsable de création visuelle pour l'association **Run For Planet**[cite: 39, 40].
+
+---
+
+### 🛠 Mon Arsenal Technique (Stack)
+
+| Langages | Outils & Systèmes |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Outils** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 🛰 Carnet de Bord (Projets 42)
+
+* [cite_start]**[LIBFT](https://github.com/bebejamin1)** : Création d'une bibliothèque de fonctions de base en C[cite: 22, 23].
+* [cite_start]**[GET_NEXT_LINE](https://github.com/bebejamin1)** : Développement d'une fonction de lecture de fichiers ligne par ligne[cite: 24, 25].
+* [cite_start]**[FT_PRINTF](https://github.com/bebejamin1)** : Recodage complet de la fonction d'affichage et de formatage de données[cite: 25, 26].
+
+---
+
+### 📂 Ground Operations (Expériences & Loisirs)
+
+* [cite_start]**Management :** Recrutement et coordination d'équipes de graphistes chez **Run For Planet**[cite: 40].
+* [cite_start]**Soft Skills :** Autonomie, esprit d'équipe, adaptabilité et sens des responsabilités[cite: 29, 30].
+* [cite_start]**Loisirs :** Natation en club (5 ans) [cite: 36] [cite_start]et jeux de stratégie comme *Age of Empires*[cite: 37].
+
+---
+
+### 📊 Statistiques Radar
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -36,13 +56,12 @@
 
 ---
 
-### 📫 Me contacter
+### 📫 Contactez la tour de contrôle
 
-<p align="left">
-<a href="https://linkedin.com/in/TON_NOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Benjamin" height="30" width="40" /></a>
-<a href="mailto:ton.email@exemple.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" height="30" width="30" /></a>
-</p>
+* [cite_start]📍 **Localisation :** Le Havre (76600)[cite: 21].
+* [cite_start]📧 **Email :** [beaurainbenjamin1@gmail.com](mailto:beaurainbenjamin1@gmail.com)[cite: 9].
+* [cite_start]💼 **LinkedIn :** [Benjamin BEAURAIN](https://www.linkedin.com/in/benjamin-beaurain)[cite: 20].
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bebejamin1&label=Vues%20du%20profil&color=blue&style=flat" alt="Compteur de vues" />
+  <img src="https://komarev.com/ghpvc/?username=bebejamin1&label=Vues%20du%20profil&color=36454F&style=flat" alt="Compteur de vues" />
 </p>
