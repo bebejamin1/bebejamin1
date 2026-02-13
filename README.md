@@ -36,14 +36,14 @@
 
 ### 📊 Tableau de Bord (Statistiques)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/bebejamin1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
   </a>
   <a href="https://github.com/bebejamin1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejamin1&layout=compact&theme=radical" alt="Langs" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
