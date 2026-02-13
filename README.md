@@ -23,7 +23,7 @@
   <tr>
     <td><strong>GNL</strong></td>
     <td>Lecture de fichiers ligne par ligne (Get_Next_Line).</td>
-    <td><a href="[https://github.com/bebejamin1](https://github.com/bebejamin1/GET_NEXT_LINE)">Voir le Repo</a></td>
+    <td><a href="https://github.com/bebejamin1/GET_NEXT_LINE">Voir le Repo</a></td>
   </tr>
   <tr>
     <td><strong>FT_PRINTF</strong></td>
