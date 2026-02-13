@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=200&section=header&text=Benjamin%20(bebejamin1)&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Benjamin%20(bebejamin1)&fontSize=60" />
 </p>
 
 > **Développeur passionné par [Ta Spécialité : ex. le Web / l'IA / le Mobile]**
