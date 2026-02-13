@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebejamin1&theme=tokyonight&area=true&hide_border=true&custom_title=Radar%20d'Activité" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebejamin1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
