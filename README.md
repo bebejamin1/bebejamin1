@@ -36,9 +36,9 @@
 
 ### 📊 Statistiques Radar
 
+### 🐍 Mon flux de travail (Snake)
 <p align="center">
-  [![bebejamin1's 42 stats](https://badge.mediaplus.ma/darkblue/bebejamin1)](https://github.com/oakoudad/badge42)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=bebejamin1&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://raw.githubusercontent.com/bebejamin1/bebejamin1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
