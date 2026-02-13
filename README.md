@@ -58,9 +58,9 @@
 
 ### 📫 Contactez la tour de contrôle
 
-* [cite_start]📍 **Localisation :** Le Havre (76600)[cite: 21].
-* [cite_start]📧 **Email :** [beaurainbenjamin1@gmail.com](mailto:beaurainbenjamin1@gmail.com)[cite: 9].
-* [cite_start]💼 **LinkedIn :** [Benjamin BEAURAIN](https://www.linkedin.com/in/benjamin-beaurain)[cite: 20].
+*📍 **Localisation :** Le Havre (76600)[cite: 21].
+*📧 **Email :** [beaurainbenjamin1@gmail.com](mailto:beaurainbenjamin1@gmail.com)[cite: 9].
+*💼 **LinkedIn :** [Benjamin BEAURAIN](https://www.linkedin.com/in/benjamin-beaurain)[cite: 20].
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bebejamin1&label=Vues%20du%20profil&color=36454F&style=flat" alt="Compteur de vues" />
