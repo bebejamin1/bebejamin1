@@ -37,8 +37,7 @@
 ### 📊 Statistiques Radar
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejamin1&layout=compact&theme=radical" />
+  [![Benjamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bebejamin1&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
