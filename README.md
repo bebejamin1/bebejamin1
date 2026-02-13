@@ -56,30 +56,12 @@
 ### 📫 Contactez la tour de contrôle
 
 <p align="center">
-  <a href="mailto:beaurainbenjamin1@gmail.com">
+  <a href="mailto:bbeaurai@student.42lehavre.fr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/benjamin-beaurain">
+  <a href="https://www.linkedin.com/in/benjaminbeaurain/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=bebejamin1&label=Vues%20du%20profil&color=36454F&style=flat" alt="Views" />
-</p>
-
-### 🛠️ Système de bord (Technologies)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,git,linux,vscode&theme=dark" />
-  </a>
-</p>
----
-
-### 📫 Contactez la tour de contrôle
-
-*📍 **Localisation :** Le Havre (76600)[cite: 21].
-*📧 **Email :** [beaurainbenjamin1@gmail.com](mailto:beaurainbenjamin1@gmail.com)[cite: 9].
-*💼 **LinkedIn :** [Benjamin BEAURAIN](https://www.linkedin.com/in/benjamin-beaurain)[cite: 20].
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bebejamin1&label=Vues%20du%20profil&color=36454F&style=flat" alt="Compteur de vues" />
 </p>
