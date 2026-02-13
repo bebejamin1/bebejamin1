@@ -1,24 +1,5 @@
 ![Design sans titre (3)](https://github.com/user-attachments/assets/edacb434-d2a3-427d-86f9-afd327101bfc)
 
-### 🚀 Plan de vol (À propos de moi)
-
-* [cite_start]**Formation :** Étudiant à l'**École 42 Le Havre** [cite: 11][cite_start], j'apprends le développement par la pratique et l'autonomie[cite: 6, 12].
-* [cite_start]**Certification :** Titulaire du **BIA (Brevet d'Initiation Aéronautique)** obtenu en 2022[cite: 33, 34].
-* [cite_start]**Profil :** Curieux, rigoureux [cite: 7][cite_start], et passionné par la simulation aéronautique[cite: 37].
-* [cite_start]**Engagement :** Trésorier du **BDE 42 Le Havre** [cite: 36] [cite_start]et responsable de création visuelle pour l'association **Run For Planet**[cite: 39, 40].
-
----
-<hr>
-
-### 🚀 Plan de vol (À propos de moi)
-
-<ul>
-  <li><strong>Formation :</strong> Étudiant Développeur à l'<strong>École 42 Le Havre</strong>[cite: 5, 11].</li>
-  <li><strong>Certification :</strong> Titulaire du <strong>BIA (Brevet d'Initiation Aéronautique)</strong>[cite: 34].</li>
-  <li><strong>Engagement :</strong> Trésorier du <strong>BDE 42 Le Havre</strong> [cite: 36] et responsable de création visuelle chez <strong>Run For Planet</strong>[cite: 39, 40].</li>
-  <li><strong>Soft Skills :</strong> Autonomie, esprit d'équipe et rigueur méthodologique[cite: 29].</li>
-</ul>
-
 <hr>
 
 ### 🛠️ Système de bord (Technologies)
