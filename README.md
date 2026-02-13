@@ -37,7 +37,7 @@
 ### 📊 Statistiques Radar
 
 <p align="center">
-  [![Benjamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bebejamin1&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=bebejamin1&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
