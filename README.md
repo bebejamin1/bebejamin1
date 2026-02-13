@@ -1,17 +1,4 @@
 ![Design sans titre (3)](https://github.com/user-attachments/assets/edacb434-d2a3-427d-86f9-afd327101bfc)
-# 👨‍✈️ Commandant Benjamin en approche !
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=250&section=header&text=Benjamin%20BEAURAIN&fontSize=60" />
-</p>
-
-<p align="center">
-  <img src="image_c174bf.jpg" width="800" alt="GitHub Aviation Art">
-  <br>
-  <em>"Le code, c'est comme le pilotage : rigueur, check-lists et une trajectoire précise vers la solution."</em>
-</p>
-
----
 
 ### 🚀 Plan de vol (À propos de moi)
 
