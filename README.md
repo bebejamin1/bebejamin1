@@ -1,7 +1,7 @@
 ![Design sans titre (3)](https://github.com/user-attachments/assets/edacb434-d2a3-427d-86f9-afd327101bfc)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Benjamin%20(bebejamin1)&fontSize=60" />
-</p>
+<!-- <p align="center"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Benjamin%20(bebejamin1)&fontSize=60" />
+<!-- </p> -->
 
 > **Développeur passionné par [Ta Spécialité : ex. le Web / l'IA / le Mobile]**
 > "Transformer le café en code propre et efficace." ☕💻
