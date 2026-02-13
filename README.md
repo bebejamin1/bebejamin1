@@ -42,11 +42,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bebejamin1&theme=tokyonight" />
-</p>
-
 <hr>
 
 ### 📫 Contactez la tour de contrôle
