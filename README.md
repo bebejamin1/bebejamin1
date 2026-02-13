@@ -43,6 +43,25 @@
 
 ---
 
+### 📊 Tableau de Bord du Commandant (Stats Pro)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebejamin1&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebejamin1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bebejamin1&theme=tokyonight&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/bebejamin1" alt="42 Badge" />
+</p>
+---
+
 ### 📫 Contactez la tour de contrôle
 
 *📍 **Localisation :** Le Havre (76600)[cite: 21].
