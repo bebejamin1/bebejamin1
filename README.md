@@ -39,6 +39,7 @@
 <p align="center">
   <a href="[https://skillicons.dev](https://github-readme-stats.vercel.app)">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bebejamin1&layout=compact&theme=radical" alt="Wakatime Stats" />
+  </a>
 </p>
 
 ### 🛠️ Système de bord (Technologies)
