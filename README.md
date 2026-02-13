@@ -36,29 +36,8 @@
 
 ### 📊 Statistiques Radar
 
-### 🐍 Mon flux de travail (Snake)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bebejamin1/bebejamin1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 Tableau de Bord du Commandant (Stats Pro)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebejamin1&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebejamin1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bebejamin1&theme=tokyonight&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/bebejamin1" alt="42 Badge" />
+  <img src="https://metrics.lecoq.io/bebejamin1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FParis" alt="Metrics" width="100%" />
 </p>
 ---
 
