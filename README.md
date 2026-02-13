@@ -36,18 +36,9 @@
 
 ### 📊 Tableau de Bord (Statistiques)
 
-<!-- <p align="center">
-  <a href="https://github.com/bebejamin1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebejamin1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
-  </a>
-  <a href="https://github.com/bebejamin1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejamin1&layout=compact&theme=radical" alt="Langs" />
-  </a>
-</p> -->
-
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebejamin1&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebejamin1&theme=tokyonight&area=true&hide_border=true&custom_title=Radar%20d'Activité" width="100%" alt="Activity Graph" />
   </a>
 </p>
 
