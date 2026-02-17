@@ -41,13 +41,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" alt="Summary Card" width="100%" />
   </a>
 </p>
-<hr>
 
-<p align="center">
-  <a href="https://github.com/bebejamin1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" alt="Benjamin's GitHub Summary" />
-  </a>
-</p>
+<hr>
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
