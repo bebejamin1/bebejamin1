@@ -43,7 +43,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?bebejamin1=vn7n24fzkq&theme=default" alt="Summary Card" width="100%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?bebejamin1&theme=default" alt="Summary Card" width="100%" />
   </a>
 </p>
     <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?bebejamin1=vn7n24fzkq&theme=default) -->
