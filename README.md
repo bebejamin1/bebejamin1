@@ -38,11 +38,9 @@
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" alt="Summary Card" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bebejamin1&theme=tokyonight" alt="Repos per Language" />
   </a>
 </p>
-
-<hr>
 
 <p align="center">
   <a href="https://github.com/bebejamin1">
@@ -52,7 +50,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejamin1&layout=donut&theme=tokyonight&hide_border=true" alt="Langs" />
   </a>
 </p>
-    <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?bebejamin1=vn7n24fzkq&theme=default) -->
 
 <hr>
 
