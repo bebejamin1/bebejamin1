@@ -39,6 +39,7 @@
 <p align="center">
   <a href="https://github.com/bebejamin1">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" alt="Summary Card" width="100%" />
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?bebejamin1=vn7n24fzkq&theme=default)
   </a>
 </p>
 
