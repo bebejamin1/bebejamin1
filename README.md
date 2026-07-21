@@ -16,37 +16,23 @@
 
 <table>
   <tr>
-    <td><strong>LIBFT</strong></td>
-    <td>Bibliothèque de fonctions système en C.</td>
-    <td><a href="https://github.com/bebejamin1/LIBFT">Voir le Repo</a></td>
+    <td><strong>Agent-Smith</strong></td>
+    <td>Agent IA autonome générant et exécutant du code.</td>
+    <td><a href="https://github.com/fcaval42/Agent-Smith">Voir le Repo</a></td>
   </tr>
   <tr>
-    <td><strong>GNL</strong></td>
-    <td>Lecture de fichiers ligne par ligne (Get_Next_Line).</td>
-    <td><a href="https://github.com/bebejamin1/GET_NEXT_LINE">Voir le Repo</a></td>
+    <td><strong>RAG</strong></td>
+    <td>IA enrichie par recherche de documents.</td>
+    <td><a href="https://github.com/bebejamin1/RAG">Voir le Repo</a></td>
   </tr>
   <tr>
-    <td><strong>FT_PRINTF</strong></td>
-    <td>Recodage complet du formatage de données en console.</td>
-    <td><a href="https://github.com/bebejamin1/FT_PRINTF">Voir le Repo</a></td>
+    <td><strong>Call-Me-Maybe</strong></td>
+    <td>Modèle IA utilisant des outils externes.</td>
+    <td><a href="https://github.com/bebejamin1/Call-Me-Maybe">Voir le Repo</a></td>
   </tr>
 </table>
 
 <hr>
-
-### 📊 Tableau de Bord (Statistiques)
-
-<p align="center">
-  <a href="https://github.com/bebejamin1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bebejamin1&theme=tokyonight" alt="Repos per Language" />
-  </a>
-  <a href="https://github.com/bebejamin1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebejamin1&theme=tokyonight" alt="Summary Card" width="100%" />
-  </a>
-</p>
-
-<hr>
-
 ### 📫 Contactez la tour de contrôle
 
 <p align="center">
